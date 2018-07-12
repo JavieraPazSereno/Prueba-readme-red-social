@@ -60,20 +60,17 @@ Para poder recolectar datos de mujeres que utilizan redes sociales y les parece 
 
 ## Prototipo de Baja fidelidad
 
-<img src="img/pbf1.jpg"  height="400" alt="Pfb1"/>
+<img src="img/pbf1.jpg"  height="400" alt="pbf1"/>
 
 ## Prototipo de Alta fidelidad
 
-<img src="img/colagge-paf1.png"  height="400" alt="Colagge-paf1"/>
-<img src="img/colagge-paf2.png"  height="400" alt="Colagge-paf2"/>
+<img src="img/colaggepaf1.png"  height="400" alt="colaggepaf1"/>
+<img src="img/colaggepaf2.png"  height="400" alt="colaggepaf2"/>
 
 ## Trello, Planificación de proyecto.
 
 Si quieres ver como nos organizamos para cumplir nuestros objetivos y a la vez conocer las tareas que realizamos cada una ingresa a aquí...
 
-
-
-## Prototipo de baja fidelidad.
 
 
 
