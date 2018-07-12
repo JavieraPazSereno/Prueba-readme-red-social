@@ -11,7 +11,7 @@ Un emprendedor muy visionario nos ha encargado crear una red social. No nos da m
 - Energías Renovables
 
 
-#Love Your Body
+# Love Your Body
 
 ## Introducción
 
@@ -38,12 +38,34 @@ Si eres parte de nuestra red social **Love Your Body** no te sentirás sola, y e
 
 Si quieres ser parte de esta red social de mujeres positivas, Únete!!
 
-##Encuesta de filtro
+## Encuesta de filtro
 
 Para poder recolectar datos de mujeres que utilizan redes sociales y les parece genial la idea de una red social feminista realizamos la siguiente encuesta.
 
 <img src="img/encuesta.png"  height="400" alt="encuesta"/>
 <img src="img/encuesta2.png"  height="400" alt="encuesta2"/>
+
+### Resultados obtenidos en encuesta de filtro
+
+<img src="img/1.png"  height="400" alt="1"/>
+<img src="img/2.png"  height="400" alt="2"/>
+<img src="img/3.png"  height="400" alt="3"/>
+<img src="img/4.png"  height="400" alt="4"/>
+<img src="img/5.png"  height="400" alt="5"/>
+<img src="img/6.png"  height="400" alt="6"/>
+<img src="img/7.png"  height="400" alt="7"/>
+<img src="img/8.png"  height="400" alt="8"/>
+
+### Conclusion obtenida
+
+## Prototipo de Baja fidelidad
+
+<img src="img/Pfb1.jpg"  height="400" alt="Pfb1"/>
+
+## Prototipo de Alta fidelidad
+
+<img src="img/Colagge-paf1"  height="400" alt="Colagge-paf1"/>
+<img src="img/Colagge-paf2"  height="400" alt="Colagge-paf2"/>
 
 ## Trello, Planificación de proyecto.
 
@@ -51,7 +73,7 @@ Si quieres ver como nos organizamos para cumplir nuestros objetivos y a la vez c
 
 
 
-##Prototipo de baja fidelidad.
+## Prototipo de baja fidelidad.
 
 
 
