@@ -60,7 +60,7 @@ Para poder recolectar datos de mujeres que utilizan redes sociales y les parece 
 
 ## Prototipo de Baja fidelidad
 
-<img src="img/pbf1.jpg"  height="400" alt="pbf1"/>
+<img src="img/pbf1.png"  height="400" alt="pbf1"/>
 
 ## Prototipo de Alta fidelidad
 
